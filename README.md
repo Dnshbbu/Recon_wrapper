@@ -1,5 +1,5 @@
 # Recon_wrapper
-This script wraps the multiple tools into the below categories. 
+This script wraps multiple tools into the below categories. 
 1. Subdomain enumeration
     - sublist3r
     - Amass
@@ -21,7 +21,7 @@ There are two ways to invoke the script
 2. By providing a list of domains
 `./myReconwrapper.py -f domains.txt`
 
-This script is work in progress. It is lacking lot of clean up and addition of tools.
+This script is work in progress. It is lacking a lot of clean up and addition of tools.
 
 ### !!! Important !!!
 This script will produce a lot of traffic. Use it wisely. Feel free to comment out the tools invocation in the script. 
